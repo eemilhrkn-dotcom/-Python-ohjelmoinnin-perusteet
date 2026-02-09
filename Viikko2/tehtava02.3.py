@@ -1,5 +1,5 @@
-height = 175
-weight = 75
+sade = float(input("anna ympyran sade: "))
+pinta_ala = 3.1415926535 * sade ** 2
+print("ympyran pinta-ala on:", pinta_ala)
 
-bmi = weight / (height / 100) ** 2
-print("The BMI is: ", bmi)
+

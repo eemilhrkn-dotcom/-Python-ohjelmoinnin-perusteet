@@ -1,8 +1,8 @@
-number1 = 100
-number2 = ("100")
+sade = float(input("anna ympyran sade:" ))
+pii = 3.1415926535897932
+pinta_ala = pii *  sade * sade
+print("ympyran pinta-ala on", pinta_ala)
 
-print(number1 + number1)
-print(number2 + number2)
 
 
 
