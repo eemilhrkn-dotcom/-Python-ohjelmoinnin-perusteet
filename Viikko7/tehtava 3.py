@@ -1,0 +1,2 @@
+Hedelmat = {"omena", "päärynä", "appelsiini"}
+
